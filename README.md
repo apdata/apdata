@@ -5,7 +5,7 @@ This is a tomb for source code, a place where I store small projects and code sn
 
 ### Skills
 My programming languages and frameworks I like to use and in which I always want to improve my skills.
-[![My Skills](https://skillicons.dev/icons?i=js,flutter,vue,dotnet,cs)]
+![My Skills](https://skillicons.dev/icons?i=js,flutter,vue,dotnet,cs)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
